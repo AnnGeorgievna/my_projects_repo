@@ -6,3 +6,5 @@
 | [Продуктовая аналитика](https://github.com/AnnGeorgievna/my_projects_repo/tree/main/product_analytics) | Анализ поведения пользователя мобильного приложения. Изучение воронки продаж. Исследование результатов A/A/B-эксперимента| *pandas, numpy, scipy, math, matplotlib, plotly, seaborn* |
 | [Визуализация данных](https://github.com/AnnGeorgievna/my_projects_repo/tree/main/data_visualization) | Исследовательский анализ рынка общественного питания, выявление наиболее перспективных мест для открытия нового кафе. Визуализация данных для презентации заказчику| *pandas, numpy, matplotlib, plotly, graph_objects, seaborn* |
 | [Статистический анализ данных](https://github.com/AnnGeorgievna/my_projects_repo/tree/main/statistical_analysis) | Статистический анализ данных. Анализ поведения клиентов оператора сотовой связи и определение оптимального тарифа| *pandas, numpy, matplotlib, seaborn, scipy* |
+| [Сборный проект: исследовательский и статистический анализ, визуализация данных](https://github.com/AnnGeorgievna/my_projects_repo/tree/main/statistical_analysis) | Изучение закономерностей, определяющих успешность игр| *pandas, numpy, matplotlib, seaborn, scipy* |
+
